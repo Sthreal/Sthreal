@@ -1,9 +1,29 @@
-# Hi, I'm Sthreal
+<div align="center">
 
-AI Agent / LLM Application Developer
+# Hey, I'm Sthreal 👋
 
-I contribute to open-source projects around agent runtimes, reliability,
-streaming, MCP, and LLM tooling.
+**AI Agent / LLM Application Developer**
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=720&lines=AI+Agent+%2F+LLM+Application+Developer;Agent+Runtime+%26+Reliability;TypeScript+%2F+Node.js+%2F+React;RAG+%2F+MCP+%2F+Tool+Calling" alt="AI Agent, Runtime reliability, TypeScript, RAG and MCP" />
+
+I contribute to open-source projects around agent runtimes, streaming,
+reliability, MCP, and LLM tooling.
+
+<a href="https://github.com/Sthreal?tab=followers"><img src="https://img.shields.io/github/followers/Sthreal?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub followers" /></a>
+<a href="https://komarev.com/ghpvc/?username=Sthreal"><img src="https://komarev.com/ghpvc/?username=Sthreal&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" /></a>
+<a href="https://github.com/search?q=is%3Apr+author%3ASthreal+-user%3ASthreal&type=pullrequests"><img src="https://img.shields.io/badge/External%20PRs-View%20on%20GitHub-0366d6?style=for-the-badge&logo=github" alt="External pull requests" /></a>
+<a href="https://github.com/search?q=is%3Apr+author%3ASthreal+-user%3ASthreal+is%3Amerged&type=pullrequests"><img src="https://img.shields.io/badge/Merged%20PRs-View%20on%20GitHub-2ea44f?style=for-the-badge&logo=github" alt="Merged pull requests" /></a>
+
+</div>
+
+---
+
+## What I Build
+
+- ⚙️ **Agent Runtime** — lifecycle, cancellation, timeouts, retries, and resource cleanup
+- 🔬 **Reliability** — race conditions, streaming correctness, and failure recovery
+- 🔗 **LLM Tooling** — MCP, tool calling, structured output, and provider integration
+- 📚 **RAG & Evidence** — retrieval quality, provenance, and citation traceability
 
 <!-- OPEN_SOURCE_CONTRIBUTIONS:START -->
 ## Open Source Contributions
@@ -30,6 +50,26 @@ streaming, MCP, and LLM tooling.
 | [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | Preserved MCP OAuth registration URL during discovery | [#12233](https://github.com/QwenLM/qwen-code/pull/12233) |
 <!-- OPEN_SOURCE_CONTRIBUTIONS:END -->
 
+## Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <br />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
+  <img src="https://img.shields.io/badge/MCP-4B5563?style=for-the-badge" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" alt="Retrieval-augmented generation" />
+  <img src="https://img.shields.io/badge/Agent%20Runtime-0A66C2?style=for-the-badge" alt="Agent Runtime" />
+</p>
+
+## Contribution Dashboard
+
+<p align="center">
+  <img width="96%" src="./assets/open-source-stats.svg" alt="Open source contribution summary" />
+</p>
+
 ## Focus Areas
 
 - Agent Runtime and lifecycle reliability
@@ -37,17 +77,3 @@ streaming, MCP, and LLM tooling.
 - MCP and LLM tool integration
 - Timeout, retry, and resource-leak prevention
 - TypeScript, Node.js, React, and Python
-<!--
-**Sthreal/Sthreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

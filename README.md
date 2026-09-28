@@ -28,7 +28,7 @@ reliability, MCP, and LLM tooling.
 <!-- OPEN_SOURCE_CONTRIBUTIONS:START -->
 ## Open Source Contributions
 
-> Automatically updated daily · 5 merged · 5 in review
+> Automatically updated daily · 5 merged · 4 in review
 
 ### Merged Pull Requests
 
@@ -44,7 +44,6 @@ reliability, MCP, and LLM tooling.
 
 | Project | Contribution | PR |
 |---|---|---|
-| [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | fix(update): fall back to foreground daemon restart | [#345](https://github.com/Tencent/BrowserSkill/pull/345) |
 | [TencentCloud/octop-harness](https://github.com/TencentCloud/octop-harness) | Avoided cross-context session-header resets in streamed agents | [#10](https://github.com/TencentCloud/octop-harness/pull/10) |
 | [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) | Updated `eventsource-parser` for large SSE responses | [#2846](https://github.com/modelcontextprotocol/typescript-sdk/pull/2846) |
 | [mastra-ai/mastra](https://github.com/mastra-ai/mastra) | Coordinated Docker termination settlement metadata | [#24477](https://github.com/mastra-ai/mastra/pull/24477) |

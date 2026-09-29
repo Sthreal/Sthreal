@@ -44,10 +44,10 @@ reliability, MCP, and LLM tooling.
 
 | Project | Contribution | PR |
 |---|---|---|
+| [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | Preserved MCP OAuth registration URL during discovery | [#12233](https://github.com/QwenLM/qwen-code/pull/12233) |
 | [TencentCloud/octop-harness](https://github.com/TencentCloud/octop-harness) | Avoided cross-context session-header resets in streamed agents | [#10](https://github.com/TencentCloud/octop-harness/pull/10) |
 | [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) | Updated `eventsource-parser` for large SSE responses | [#2846](https://github.com/modelcontextprotocol/typescript-sdk/pull/2846) |
 | [mastra-ai/mastra](https://github.com/mastra-ai/mastra) | Coordinated Docker termination settlement metadata | [#24477](https://github.com/mastra-ai/mastra/pull/24477) |
-| [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | Preserved MCP OAuth registration URL during discovery | [#12233](https://github.com/QwenLM/qwen-code/pull/12233) |
 <!-- OPEN_SOURCE_CONTRIBUTIONS:END -->
 
 ## Tech Stack

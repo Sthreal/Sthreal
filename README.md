@@ -28,12 +28,13 @@ reliability, MCP, and LLM tooling.
 <!-- OPEN_SOURCE_CONTRIBUTIONS:START -->
 ## Open Source Contributions
 
-> Automatically updated daily · 5 merged · 4 in review
+> Automatically updated daily · 6 merged · 3 in review
 
 ### Merged Pull Requests
 
 | Project | Contribution | PR |
 |---|---|---|
+| [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) | Updated `eventsource-parser` for large SSE responses | [#2846](https://github.com/modelcontextprotocol/typescript-sdk/pull/2846) |
 | [helsome/folio](https://github.com/helsome/folio) | Removed a provider timeout abort-listener leak | [#186](https://github.com/helsome/folio/pull/186) |
 | [helsome/folio](https://github.com/helsome/folio) | Prevented uncooperative capabilities from bypassing execution timeouts | [#183](https://github.com/helsome/folio/pull/183) |
 | [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) | Fixed duplicate `assistant-cloud` instances by reusing the host `ai` peer | [#8071](https://github.com/assistant-ui/assistant-ui/pull/8071) |
@@ -46,7 +47,6 @@ reliability, MCP, and LLM tooling.
 |---|---|---|
 | [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | Preserved MCP OAuth registration URL during discovery | [#12233](https://github.com/QwenLM/qwen-code/pull/12233) |
 | [TencentCloud/octop-harness](https://github.com/TencentCloud/octop-harness) | Avoided cross-context session-header resets in streamed agents | [#10](https://github.com/TencentCloud/octop-harness/pull/10) |
-| [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) | Updated `eventsource-parser` for large SSE responses | [#2846](https://github.com/modelcontextprotocol/typescript-sdk/pull/2846) |
 | [mastra-ai/mastra](https://github.com/mastra-ai/mastra) | Coordinated Docker termination settlement metadata | [#24477](https://github.com/mastra-ai/mastra/pull/24477) |
 <!-- OPEN_SOURCE_CONTRIBUTIONS:END -->
 

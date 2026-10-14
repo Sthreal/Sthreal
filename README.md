@@ -28,7 +28,7 @@ reliability, MCP, and LLM tooling.
 <!-- OPEN_SOURCE_CONTRIBUTIONS:START -->
 ## Open Source Contributions
 
-> Automatically updated daily · 6 merged · 2 in review
+> Automatically updated daily · 6 merged · 1 in review
 
 ### Merged Pull Requests
 
@@ -45,7 +45,6 @@ reliability, MCP, and LLM tooling.
 
 | Project | Contribution | PR |
 |---|---|---|
-| [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | Preserved MCP OAuth registration URL during discovery | [#12233](https://github.com/QwenLM/qwen-code/pull/12233) |
 | [TencentCloud/octop-harness](https://github.com/TencentCloud/octop-harness) | Avoided cross-context session-header resets in streamed agents | [#10](https://github.com/TencentCloud/octop-harness/pull/10) |
 <!-- OPEN_SOURCE_CONTRIBUTIONS:END -->
 

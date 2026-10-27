@@ -28,7 +28,7 @@ reliability, MCP, and LLM tooling.
 <!-- OPEN_SOURCE_CONTRIBUTIONS:START -->
 ## Open Source Contributions
 
-> Automatically updated daily · 6 merged · 2 in review
+> Automatically updated daily · 6 merged · 3 in review
 
 ### Merged Pull Requests
 
@@ -45,6 +45,7 @@ reliability, MCP, and LLM tooling.
 
 | Project | Contribution | PR |
 |---|---|---|
+| [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | fix(core): match sed text semantics in unicode mode | [#15694](https://github.com/QwenLM/qwen-code/pull/15694) |
 | [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | fix(web-shell): keep at-mention subtitles in their grid track | [#15592](https://github.com/QwenLM/qwen-code/pull/15592) |
 | [TencentCloud/octop-harness](https://github.com/TencentCloud/octop-harness) | Avoided cross-context session-header resets in streamed agents | [#10](https://github.com/TencentCloud/octop-harness/pull/10) |
 <!-- OPEN_SOURCE_CONTRIBUTIONS:END -->

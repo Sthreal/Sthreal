@@ -45,8 +45,8 @@ reliability, MCP, and LLM tooling.
 
 | Project | Contribution | PR |
 |---|---|---|
-| [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | fix(core): match sed text semantics in unicode mode | [#15694](https://github.com/QwenLM/qwen-code/pull/15694) |
 | [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | fix(web-shell): keep at-mention subtitles in their grid track | [#15592](https://github.com/QwenLM/qwen-code/pull/15592) |
+| [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | fix(core): match sed text semantics in unicode mode | [#15694](https://github.com/QwenLM/qwen-code/pull/15694) |
 | [TencentCloud/octop-harness](https://github.com/TencentCloud/octop-harness) | Avoided cross-context session-header resets in streamed agents | [#10](https://github.com/TencentCloud/octop-harness/pull/10) |
 <!-- OPEN_SOURCE_CONTRIBUTIONS:END -->
 

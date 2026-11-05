@@ -28,12 +28,13 @@ reliability, MCP, and LLM tooling.
 <!-- OPEN_SOURCE_CONTRIBUTIONS:START -->
 ## Open Source Contributions
 
-> Automatically updated daily · 6 merged · 3 in review
+> Automatically updated daily · 7 merged · 3 in review
 
 ### Merged Pull Requests
 
 | Project | Contribution | PR |
 |---|---|---|
+| [Tencent-Hunyuan/Hy-Memory](https://github.com/Tencent-Hunyuan/Hy-Memory) | fix(memhub): fail model probe reservations when execution never dispatches | [#329](https://github.com/Tencent-Hunyuan/Hy-Memory/pull/329) |
 | [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) | Updated `eventsource-parser` for large SSE responses | [#2846](https://github.com/modelcontextprotocol/typescript-sdk/pull/2846) |
 | [helsome/folio](https://github.com/helsome/folio) | Removed a provider timeout abort-listener leak | [#186](https://github.com/helsome/folio/pull/186) |
 | [helsome/folio](https://github.com/helsome/folio) | Prevented uncooperative capabilities from bypassing execution timeouts | [#183](https://github.com/helsome/folio/pull/183) |
